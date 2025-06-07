@@ -1,0 +1,12 @@
+[project]
+name = "sample-proj"
+version = "0.1.0"
+description = "A sample project using plateaukit to visualize 3D city data."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anywidget>=0.9.18",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "plateaukit[all]>=0.18.1",
+]
