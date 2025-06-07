@@ -1,6 +1,6 @@
 # Sample Project to visualize 3D city data
 
-This project is a sample project to visualize 3D city data using [plateaukit](https://github.com/plateau-sh/plateaukit).
+This project is a sample project to visualize 3D city data using [plateaukit](https://github.com/ozekik/plateaukit).
 
 ## Usage
 
